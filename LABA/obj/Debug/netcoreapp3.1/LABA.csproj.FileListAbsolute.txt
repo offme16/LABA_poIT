@@ -1,0 +1,13 @@
+C:\Users\OFFME\source\repos\LABA\LABA\bin\Debug\netcoreapp3.1\LABA.exe
+C:\Users\OFFME\source\repos\LABA\LABA\bin\Debug\netcoreapp3.1\LABA.deps.json
+C:\Users\OFFME\source\repos\LABA\LABA\bin\Debug\netcoreapp3.1\LABA.runtimeconfig.json
+C:\Users\OFFME\source\repos\LABA\LABA\bin\Debug\netcoreapp3.1\LABA.runtimeconfig.dev.json
+C:\Users\OFFME\source\repos\LABA\LABA\bin\Debug\netcoreapp3.1\LABA.dll
+C:\Users\OFFME\source\repos\LABA\LABA\bin\Debug\netcoreapp3.1\LABA.pdb
+C:\Users\OFFME\source\repos\LABA\LABA\obj\Debug\netcoreapp3.1\LABA.csprojAssemblyReference.cache
+C:\Users\OFFME\source\repos\LABA\LABA\obj\Debug\netcoreapp3.1\LABA.AssemblyInfoInputs.cache
+C:\Users\OFFME\source\repos\LABA\LABA\obj\Debug\netcoreapp3.1\LABA.AssemblyInfo.cs
+C:\Users\OFFME\source\repos\LABA\LABA\obj\Debug\netcoreapp3.1\LABA.csproj.CoreCompileInputs.cache
+C:\Users\OFFME\source\repos\LABA\LABA\obj\Debug\netcoreapp3.1\LABA.dll
+C:\Users\OFFME\source\repos\LABA\LABA\obj\Debug\netcoreapp3.1\LABA.pdb
+C:\Users\OFFME\source\repos\LABA\LABA\obj\Debug\netcoreapp3.1\LABA.genruntimeconfig.cache
